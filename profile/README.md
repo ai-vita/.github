@@ -70,7 +70,7 @@ VITA is currently in **Public Beta**. Start testing how your app feels:
 3. **Watch VITA work** in its virtual desktop environment
 4. **Review results** with detailed reports and screenshots
 
-No credit card required. No Selenium scripts. Just intuition-driven QA.
+No Selenium scripts. No brittle test maintenance. Just intuition-driven QA.
 
 [**Start Free Trial →**](https://www.vita-ai.net/chat)
 
