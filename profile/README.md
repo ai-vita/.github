@@ -1,8 +1,9 @@
 <div align="center">
 
-# VITA — **VI**be **T**esting **A**gent
+# VITA AI — Your Digital Worker for AI Social Media & More
 
-**The AI-powered vibe testing agent that tests how your app feels, not just if it works.**
+**Hire your first digital worker: an autonomous AI that works on its own virtual computer —
+drafting and publishing your social media, creating content, and getting work done while you're away.**
 
 [![Website](https://img.shields.io/badge/Website-vita--ai.net-blue?style=flat-square)](https://www.vita-ai.net)
 [![Bluesky](https://img.shields.io/badge/Bluesky-@vita--ai-0285FF?style=flat-square&logo=bluesky)](https://bsky.app/profile/vita-ai.bsky.social)
@@ -10,91 +11,122 @@
 
 </div>
 
+<div align="center">
+
+[![VITA AI digital worker drafting and publishing a cross-platform social media post](https://www.vita-ai.net/asset/video-preview.png)](https://www.vita-ai.net)
+
+▶︎ **[Watch the demo](https://www.vita-ai.net)** — see VITA draft and publish a post across Twitter/X, LinkedIn, and Bluesky from its own virtual desktop
+
+</div>
+
 ---
 
 ## What is VITA?
 
-**VITA** stands for **VI**be **T**esting **A**gent — an autonomous AI coworker that brings intuition-driven QA to your web applications.
+**VITA AI is your digital worker** — an AI assistant that operates its own virtual computer,
+just like a real employee. Tell it what to do in plain language and it gets to work: drafting
+and publishing **social media posts across platforms**, creating content, generating images,
+and running scheduled tasks — autonomously, even when you're away.
 
-Built from day one for vibe testing. Named for vibe testing.
-
-VITA operates in a virtual desktop environment, using natural language instructions to autonomously test user flows, validate UX quality, and catch issues that traditional automation tools miss.
-
----
-
-## What is Vibe Testing?
-
-Vibe testing is an AI-augmented, intuition-driven approach to software testing that focuses on **how software feels** to users, not just if it works technically.
-
-| Vibe Testing | Traditional Testing |
-|--------------|---------------------|
-| Tests "how it feels" | Tests "if it works" |
-| Natural language instructions | Complex scripting required |
-| Self-healing automation | Brittle, maintenance-heavy |
-| Adapts to UI changes | Breaks with updates |
-| 90% faster QA workflow | Time-consuming setup |
-
-**Key characteristics:**
-
-- **Natural language test creation** — Describe what you want to test in plain English
-- **Self-healing automation** — Tests adapt automatically when your UI changes
-- **Intuition-driven** — Focuses on UX and user flow, not just functional correctness
-- **Autonomous execution** — AI agent explores and tests like a human QA engineer
-
-> Vibe testing is the QA counterpart to "vibe coding" — bringing the same AI-first, natural language approach to quality assurance.
+No coding required. Just describe the outcome you want.
 
 ---
 
-## Key Capabilities
+## Start with social posting
 
-### Natural Language Testing
-Just describe how your app should feel — no scripting required. VITA interprets your intent and creates comprehensive test scenarios.
+VITA's first job is **AI social media posting**. Connect your accounts once and your digital
+worker writes and publishes for you — formatted perfectly for each platform.
 
-### Self-Healing Test Automation
-UI changes? No problem. VITA's vibe testing agent automatically adapts test cases as your app evolves, eliminating brittle Selenium scripts.
+- **Cross-platform posting** — Twitter/X, LinkedIn, and Bluesky today (Threads & Instagram in progress)
+- **Content from a prompt** — turn a rough idea into polished posts, threads, and captions
+- **Repurpose once, post everywhere** — a blog post becomes an X thread, a LinkedIn article, an Instagram carousel
+- **Image generation** — describe the visual, VITA generates it and attaches it to the post
+- **Always-on scheduling** — queue posts to publish on time, even while you sleep, because the desktop is always on
 
-### Autonomous Bug Detection
-Goes beyond scripted tests to find issues based on how things *should* feel. Discovers UX problems, edge cases, and unexpected behaviors.
+---
 
-### Virtual Desktop Environment
-Each test runs in an isolated, ephemeral sandbox with full browser automation. Reproducible, secure, and observable.
+## A digital worker, not a chatbot
+
+| VITA — your digital worker                           | A typical AI chatbot                            |
+| ---------------------------------------------------- | ----------------------------------------------- |
+| Keeps files, logins, and context on its own computer | Starts fresh each chat, no workspace of its own |
+| Publishes across your platforms for you              | Hands you text to copy-paste                    |
+| Runs 24/7 on a schedule                              | Only works while you're typing                  |
+| Plain-language tasks, no scripts                     | One question at a time                          |
+
+> Unlike a chatbot that starts over every session, VITA operates in a **persistent virtual
+> desktop** — it doesn't just answer questions, it gets work done.
+
+---
+
+## How it works
+
+VITA lives in a **persistent virtual desktop** — a real Linux environment with a browser, file
+system, and apps that stay logged in between tasks. You drive it from chat; it executes on its
+own machine and reports back.
+
+- **Persistent state** — sessions, files, and context survive across tasks; pick up where you left off
+- **Autonomous execution** — give it a high-level goal and it plans and carries out the steps
+- **Always on** — scheduled and recurring tasks run in the cloud, 24/7, even while you're offline
+- **No setup** — nothing to install; your AI coworker's computer lives in the cloud
+
+---
+
+## What your digital worker can do
+
+- **Cross-platform social posting** — share once, published everywhere, tailored per platform
+- **Content creation** — posts, threads, and captions from a plain-language prompt
+- **Content repurposing** — one source, optimized for every channel
+- **Image generation** — launch graphics, post images, and thumbnails on demand
+- **Scheduled & recurring tasks** — always-on social media automation that runs while you're offline
+- **Beyond posting** — on-demand briefings that summarize your inbox and the news you care about
 
 ---
 
 ## Getting Started
 
-VITA is currently in **Public Beta**. Start testing how your app feels:
+VITA is in **Public Beta** with a 7-day free trial.
 
 1. **Sign up** at [vita-ai.net](https://www.vita-ai.net)
-2. **Describe your test** in natural language
-3. **Watch VITA work** in its virtual desktop environment
-4. **Review results** with detailed reports and screenshots
-
-No Selenium scripts. No brittle test maintenance. Just intuition-driven QA.
+2. **Connect your accounts** — link the social platforms you want VITA to post to
+3. **Tell VITA what to do** — in plain language, like messaging a coworker
+4. **Watch it work** — review, schedule, and publish from its virtual desktop
 
 [**Start Free Trial →**](https://www.vita-ai.net/chat)
 
 ---
 
+## For developers
+
+VITA is a hosted product — an autonomous AI coworker, not an open-source library — so this org
+is primarily our home on GitHub. Public repos (SDKs, examples, integrations) will appear here as
+we open them up. In the meantime, dig into how VITA works:
+
+- **[Docs](https://www.vita-ai.net/docs)** — how the virtual desktop and agent work
+- **[Changelogs](https://www.vita-ai.net/changelogs)** — what we shipped, and when
+- **[Blog](https://www.vita-ai.net/blogs)** — deeper dives on autonomous agents and social media automation
+
+---
+
 ## About VITA AI
 
-We believe QA shouldn't require an engineering degree or weeks of script maintenance.
-
-VITA AI is building autonomous AI coworkers that handle real work — starting with QA testing because it's a massive pain point that traditional tools haven't solved. Our vibe testing agent interprets high-level objectives, explores your application like a human would, and delivers comprehensive test coverage without the maintenance burden.
+We're building **autonomous AI coworkers** that handle real work — starting with social media
+because it's a daily grind for founders, creators, and small teams. VITA interprets high-level
+goals, works in its own virtual desktop, and gets things done without you babysitting it.
 
 **Our approach:**
 
-- **Autonomy over automation** — AI agents that think and adapt, not just execute scripts
-- **Natural language first** — Testing accessible to non-technical team members
-- **Developer-focused** — Built by engineers who've felt the pain of brittle test suites
+- **Autonomy over automation** — an AI that thinks and adapts, not a script that breaks
+- **Plain language first** — built for people, not engineers; no code required
+- **Real work, not chat** — a digital worker with its own computer, online 24/7
 
-[Learn more about our mission →](https://www.vita-ai.net)
+[Learn more →](https://www.vita-ai.net)
 
 ---
 
 <div align="center">
 
-**VITA** (**VI**be **T**esting **A**gent) | Testing how your software feels
+**VITA AI** · Your digital worker
 
 [Website](https://www.vita-ai.net) · [Bluesky](https://bsky.app/profile/vita-ai.bsky.social) · [Contact](mailto:hello@vita-ai.net)
 
